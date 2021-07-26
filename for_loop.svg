@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="214.16515mm"
+   height="176.625mm"
+   viewBox="0 0 214.16515 176.625"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="for_loop.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     inkscape:zoom="0.69664703"
+     inkscape:cx="422.73919"
+     inkscape:cy="528.24456"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="2869"
+     inkscape:window-y="1036"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="clip0">
+      <rect
+         x="698"
+         y="193"
+         width="802"
+         height="660"
+         id="rect9" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(6.8165957,-8.9151217)">
+    <g
+       clip-path="url(#clip0)"
+       transform="matrix(0.26458333,0,0,0.26458333,-190.49576,-41.149461)"
+       id="g50">
+      <path
+         d="M 698,535 879,425 1060,535 879,645 Z"
+         fill="#2e008b"
+         fill-rule="evenodd"
+         id="path14" />
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="36px"
+         transform="translate(818.819,505)"
+         id="text20">Is there <tspan
+   font-size="36px"
+   x="-1"
+   y="43"
+   id="tspan16">another</tspan><tspan
+   font-size="36px"
+   x="-14"
+   y="86"
+   id="tspan18">element?</tspan></text>
+      <path
+         d="m 698,258 72.4,-65 h 217.2 l 72.4,65 -72.4,65 H 770.4 Z"
+         fill="#2e008b"
+         fill-rule="evenodd"
+         id="path22" />
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="36px"
+         transform="translate(792.819,250)"
+         id="text26">Loop initial <tspan
+   font-size="36px"
+   x="5"
+   y="43"
+   id="tspan24">conditions</tspan></text>
+      <path
+         d="m 756.238,751 h 245.522 c 32.17,0 58.24,22.833 58.24,51 0,28.167 -26.07,51 -58.24,51 H 756.238 C 724.074,853 698,830.167 698,802 c 0,-28.167 26.074,-51 58.238,-51 z"
+         fill="#2e008b"
+         fill-rule="evenodd"
+         id="path28" />
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="36px"
+         transform="translate(807.819,816)"
+         id="text30">End loop</text>
+      <rect
+         x="1186"
+         y="450"
+         width="263"
+         height="171"
+         fill="#2e008b"
+         id="rect32" />
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="36px"
+         transform="translate(1233.4,527)"
+         id="text36">Loop body <tspan
+   font-size="36px"
+   x="-17"
+   y="43"
+   id="tspan34">with element</tspan></text>
+      <path
+         d="m 1060.01,532 111.02,0.441 -0.02,6 L 1059.99,538 Z m 108.05,-5.571 17.96,9.072 -18.03,8.928 z"
+         fill="#2e008b"
+         id="path38" />
+      <path
+         d="M 3,-8.85088e-6 3.00027,91.7558 h -6 L -3,8.85088e-6 Z M 9.00026,88.7557 3.14961e-4,106.756 -8.99974,88.7558 Z"
+         fill="#2e008b"
+         transform="matrix(-1,0,0,1,879,645)"
+         id="path40" />
+      <path
+         d="m 882,323 v 87.154 h -6 V 323 Z m 6,84.154 -9,18 -9,-18 z"
+         fill="#2e008b"
+         id="path42" />
+      <path
+         d="m 0,3 h -88.296 v -185.294 h 337.952 v 605.881 h -6 v -602.881 l 3,3 H -85.296 l 3,-3 V 0 l -3,-3 H 0 Z m 255.656,417.586 -9,18 -9,-18 z"
+         fill="#2e008b"
+         transform="matrix(0,-1,-1,0,1317.59,620.656)"
+         id="path44" />
+      <text
+         fill="#2e008b"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="36px"
+         transform="translate(893.219,701)"
+         id="text48">No<tspan
+   font-size="36px"
+   x="196.34"
+   y="-175"
+   id="tspan46">Yes</tspan></text>
+    </g>
+  </g>
+</svg>
